@@ -1,7 +1,8 @@
 
 ## [Coursera Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
-<div style="text-align:center"><img src="logo.jpeg" width="200" height="200" /></div>
+<img src="logo.jpeg" width="200" height="200" />
+
 > **This skills-based specialization will equip you with the skills you need to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.**
 
 There are 5 Courses in this Specialization:

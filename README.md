@@ -11,7 +11,6 @@ There are 5 Courses in this Specialization:
 3. ![Not Started](https://placehold.it/15/0000FF/000000?text=+) Applied Machine Learning in Python
 4. ![Not Started](https://placehold.it/15/0000FF/000000?text=+) Applied Text Mining in Python
 5. ![Not Started](https://placehold.it/15/0000FF/000000?text=+) Applied Social Network Analysis in Python
-6
 
 ---
 ![Not Started](https://placehold.it/15/0000FF/000000?text=+) Not Started &nbsp;&nbsp;

@@ -4,4 +4,4 @@ https://dataskeptic.com/blog/episodes/2016/goodharts-law
 https://stats.stackexchange.com/questions/105979/is-knn-a-discriminative-learning-algorithm/106081#106081
 http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
 
-
+https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511

@@ -5,3 +5,13 @@ https://stats.stackexchange.com/questions/105979/is-knn-a-discriminative-learnin
 http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
 
 https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511
+https://techcrunch.com/2017/04/13/neural-networks-made-easy/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuY291cnNlcmEub3JnL2xlYXJuL3B5dGhvbi1tYWNoaW5lLWxlYXJuaW5nL3N1cHBsZW1lbnQvWmp1N1cvbmV1cmFsLW5ldHdvcmtzLW1hZGUtZWFzeS1vcHRpb25hbA&guce_referrer_sig=AQAAANg0HAS2_cn78GvO4w4bBi8NPcgHLnu7cUk9N-Rwy2Fp48D8uLlIP3fzF3wyxNlaeOA4bjnuy-Sue31In5FDo9-pYhFFP_mQfarqn1kNSTme9xHBAdsvndksxPv2Ya-LmvMyRRtd4OYhqMT-AdRU9EEka41FmQ7-mhnsas7ZC3De
+
+http://playground.tensorflow.org
+https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/
+https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
+https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
+https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839
+
+https://distill.pub/2016/misread-tsne/#citation
+https://www.freecodecamp.org/news/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba/
